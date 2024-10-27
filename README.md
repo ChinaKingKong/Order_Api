@@ -25,8 +25,8 @@
 
 ```
 order_api/
-├── app/              # 应用程序核心
-├── auth/             # JWT认证实现  
+├── app/               # 应用程序核心
+│   └── auth/         # JWT认证实现
 ├── cache/            # 缓存层实现
 ├── config/           # 配置管理
 ├── database/         # 数据库管理
