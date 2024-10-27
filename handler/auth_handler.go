@@ -2,7 +2,7 @@ package handler
 
 import (
 	"net/http"
-	"order_api/auth"
+	"order_api/app/auth"
 
 	"github.com/gin-gonic/gin"
 )

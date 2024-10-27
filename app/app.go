@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 	"log"
-	"order_api/auth"
+	"order_api/app/auth"
 	"order_api/cache"
 	"order_api/config"
 	"order_api/database"

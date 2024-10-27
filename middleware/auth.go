@@ -1,16 +1,9 @@
-/*
- * @Author: 李志刚
- * @Date: 2024-10-27 15:21:08
- * @LastEditors: 李志刚
- * @LastEditTime: 2024-10-27 23:26:09
- * @Description:
- */
 // Package middleware 提供HTTP中间件功能
 package middleware
 
 import (
 	"net/http"
-	"order_api/auth"
+	"order_api/app/auth"
 	"strings"
 
 	"github.com/gin-gonic/gin"

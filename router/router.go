@@ -1,7 +1,7 @@
 package router
 
 import (
-	"order_api/auth"
+	"order_api/app/auth"
 	"order_api/handler"
 	"order_api/middleware"
 
